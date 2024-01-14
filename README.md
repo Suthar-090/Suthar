@@ -1,2 +1,3 @@
 # Suthar
-Here is my first repository
+Here is my first repository.
+Author - Bhavesh Suthar
