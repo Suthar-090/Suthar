@@ -1,4 +1,4 @@
 # Suthar
 Here is my first repository.
 <br>
-Author - Bhavesh bardwa
+Author - Bhavesh suthar (Bardwa)
